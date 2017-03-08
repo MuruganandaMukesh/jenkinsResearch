@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>JenkinsResearchTarget2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -23,6 +28,21 @@
 			<true/>
 		</dict>
 		<key>5E60099F1E6E7A7700AA8187</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5E600A211E6FC53900AA8187</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5E600A341E6FC53900AA8187</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5E600A3F1E6FC53900AA8187</key>
 		<dict>
 			<key>primary</key>
 			<true/>
